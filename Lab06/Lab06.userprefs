@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{26BF68E0-F031-499D-9611-8C2E4149FF94}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab06/ValidarActividadViewController.cs">
+    <Files>
+      <File FileName="Lab06/PhoneTranslator.cs" Line="11" Column="51" />
+      <File FileName="Lab06/ValidarActividadViewController.cs" Line="30" Column="2" />
+      <File FileName="Lab06/ViewController.cs" Line="27" Column="38" />
+      <File FileName="Lab06/CallHistoryController.cs" Line="21" Column="23" />
+      <File FileName="Lab06/Main.storyboard" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab06 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AADE8624-F9ED-46ED-B5D0-5B9257A9D574" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
